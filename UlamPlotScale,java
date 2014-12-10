@@ -1,7 +1,9 @@
-//I created this ulam spiral without looking at other code. <br />
-//It was an accomplishement. <br />
-//Please give b=me credit if you use my algorithm.
+//I created this ulam spiral without looking at other code. 
+//It was an accomplishement. 
+//Please give me credit if you use my algorithm.
 //Craig Coleman 141207
+// $javac UlamSpiralScale.java
+// $java UlamSpiralScale
 
 import java.awt.*;
 import java.awt.event.*; 
